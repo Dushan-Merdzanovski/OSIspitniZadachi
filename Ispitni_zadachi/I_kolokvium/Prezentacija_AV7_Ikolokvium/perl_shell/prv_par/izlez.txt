@@ -1,0 +1,8 @@
+
+izlez.txt
+naredbi1.txt
+proben
+vlez1.txt
+zadaca1.pl
+zadaca2.sh
+

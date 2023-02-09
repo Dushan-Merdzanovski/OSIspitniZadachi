@@ -1,0 +1,2 @@
+cat -l -p cmd ppl.ls -l cntrl pap -o ppp.exe
+pop cmd empty cat *.*

@@ -1,0 +1,2 @@
+ls -al echo $PWD
+cat ./zadaca1.pl

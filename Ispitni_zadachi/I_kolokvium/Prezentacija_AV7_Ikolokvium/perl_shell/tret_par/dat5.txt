@@ -1,0 +1,4 @@
+dat1.txt ima 1 zborovi
+dat2.txt ima 3 zborovi
+dat3.txt ima 1 zborovi
+dat4.txt ima 2 zborovi

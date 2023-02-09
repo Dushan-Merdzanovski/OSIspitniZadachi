@@ -1,0 +1,13 @@
+@martin @dzajko @ana @marko
+Vnesuvaj zborovi, kraj to quit
+
+
+Vo dadotekata dat1.txt:
+
+Vo linija 1 gi ima:
+@marko
+
+Vo dadotekata dat2.txt:
+
+Vo linija 1 gi ima:
+@marko
